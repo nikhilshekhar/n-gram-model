@@ -1,6 +1,6 @@
 # n-gram-model
 
-**The code does the following**
+**The code does the following:**
 
 **1. Compute the log-probability and perplexity of the corpus on an n-gram model**
 
